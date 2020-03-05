@@ -1,5 +1,5 @@
 Pre-requesite:
-* Install MASM
+* Install [MASM](http://www.masm32.com/)
 
 Assemble the file
 ```shell
