@@ -8,5 +8,5 @@ Assemble the file
 
 Link
 ```shell
-\masm32\bin\Link /SUBSYSTEM:CONSOLE hellow.obj
+\masm32\bin\Link /SUBSYSTEM:WINDOWS hellow.obj
 ```
